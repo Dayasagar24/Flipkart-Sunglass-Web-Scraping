@@ -9,4 +9,4 @@ using Python (requests + BeautifulSoup) and stores the result in a DataFrame.
 - BeautifulSoup
 - Pandas
 
-## This project scrapes sunglass product details from Flipkart and saves the final cleaned dataset into a CSV file
+# This project scrapes sunglass product details from Flipkart and saves the final cleaned dataset into a CSV file
